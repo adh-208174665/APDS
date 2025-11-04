@@ -1,0 +1,6 @@
+@APDS_LoginAPI_HostAddress = http://localhost:5168
+
+GET {{APDS_LoginAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
